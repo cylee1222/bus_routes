@@ -26,6 +26,7 @@ then build the docker image by running
 
 ```
 docker build -t bus_routes .
+```
 
 then gzip the docker image and copy the gzip file to the nas
 
